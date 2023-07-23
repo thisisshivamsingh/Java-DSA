@@ -56,7 +56,7 @@ public class ConditionalStatement{
         int marks = scn.nextInt();
         // input - don't change this code
 
-        // code here //
+        // code here
 if (marks > 90){
     System.out.println("excellent");
 }else if(marks>80 && marks<=90){
